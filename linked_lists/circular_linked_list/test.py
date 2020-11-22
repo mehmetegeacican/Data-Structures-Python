@@ -1,0 +1,16 @@
+from circular_linked_list import *
+
+llist = CircularLinkedList()
+llist.addtoEmptyList(10)
+llist.addToBeginning(12)
+llist.addToBeginning(15)
+llist.addToBeginning(18)
+llist.addAfter(15,19)
+llist.addAfter(10,2)
+llist.addAfter(8,2)
+llist.printList()
+llist.deleteHead()
+llist.deleteNode(12)
+count = llist.getLength()
+print("Count is:",count)
+llist.printList()
