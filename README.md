@@ -1,2 +1,2 @@
 # Data-Structures-Python
-Tests on Data Structures in python language
+Tests and Practices on Data Structures in python language
