@@ -1,0 +1,124 @@
+From,To
+New York,Los Angeles
+New York,San Diego
+New York,San Fransisco
+New York,Montreal
+New York,Mexico City
+New York,San Antonio
+New York,London
+New York,Istanbul
+Los Angeles,San Diego
+Los Angeles,San Fransisco
+Los Angeles,New York
+Los Angeles,Cancun
+Los Angeles,New Orleans
+Los Angeles,San Antonio
+San Antonio,New York
+San Antonio,Los Angeles
+San Antonio,Mexico City
+San Antonio,Minnesota
+San Antonio,Buenos Aires
+San Antonio, Rio de Janeiro
+London,New York
+London,Kopenhagen
+London,Glasgow
+London,Edinburgh
+London,Paris
+London,Berlin
+London,Liverpool
+London,Manchester
+London,Roma
+London,Newcastle
+London,Milan
+London,Istanbul
+Paris,London
+Paris,Amsterdam
+Paris,Brussels
+Paris,Marseille
+Paris,Berlin
+Paris,Lille
+Paris,Madrid
+Paris,Istanbul
+Paris,Barcelona
+Berlin,Munich
+Berlin,London
+Berlin,Hamburg
+Berlin,Paris
+Berlin,Kopenhagen
+Berlin,Oslo
+Berlin,Madrid
+Berlin,Wien
+Berlin,Roma
+Berlin,Milano
+Berlin,Napoli
+Berlin,Istanbul
+Berlin,Prague
+Berlin,Budapest
+Istanbul,Berlin
+Istanbul,London
+Istanbul,Roma
+Istanbul,Madrid
+Istanbul,Barcelona
+Istanbul,New York
+Istanbul,Athens
+Istanbul,Mexico City
+Mexico City,Cancun
+Mexico City,Havana
+Maxico City,Istanbul
+Mexico City,Buenos Aires
+Mexico City,Montevideo
+Mexico City,Montreal
+Mexico City,Rio de Janeiro
+Mexico City,New York
+Mexico City,Los Angeles
+Athens,Istanbul
+Athens,Belgrade
+Athens,Crete
+Athens,Wien
+Athens,London
+Athens,Paris
+Athens,Berlin
+Athens,Zagreb
+Athens,Budapest
+Wien,Berlin
+Wien,Bern
+Wien,Milan
+Wien,Roma
+Wien,Paris
+Wien,Hamburg
+Hamburg,Kopenhagen
+Hamburg,Oslo
+Hamburg,Stockholm
+Hamburg,Berlin
+Kopenhagen,Oslo
+Kopenhagen,Stockholm
+Kopenhagen,Montreal
+Kopenhagen,Istanbul
+Istanbul,Cairo
+Istanbul,Baghdad
+Cairo,Istanbul
+Cairo,Alexandria
+Cairo,Athens
+Cairo,Rabat
+Cairo,Dubai
+Cairo,Amman
+Cairo,Abu Dabi
+London,Dublin
+Dublin,London
+Dublin,Belfast
+Dubai,Istanbul
+Istanbul,Dubai
+Dubai,Koala Lumpur
+Dubai,Jakarta
+Dubai,New Delhi
+Dubai,New York
+Dubai,Kolombo
+Dubai,Seoul
+Istanbul,Seoul
+Seoul,Pekin
+Seoul,Beijing
+Seoul,Hong Kong
+Seoul,Tokyo
+Seoul,Istanbul
+Tokyo,Sydney
+Sydney,Melbourne
